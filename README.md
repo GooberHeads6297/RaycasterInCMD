@@ -5,3 +5,5 @@ A simple raycaster I made using C++ a while ago in visual studio.
 NOTE:
 
 This is not signed by an author windows smart screen will freak out
+
+You can press the, "M" key to toggle the map for the raycaster.
